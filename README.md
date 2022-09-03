@@ -1,6 +1,9 @@
 # Accounting employees
 Accounting employees project using React and SCSS
 
+## Deploy:
+https://joramba.github.io/Accounting_employees/
+
 ## API:
 https://www.npmjs.com/package/uuid to create a random UUID for each employee.
 
